@@ -1,0 +1,19 @@
+.container-fluid{
+    padding: 25px;
+}
+.page-footer:not(text-uppercase){
+    background-color: #1B2A4E;
+    color: #8686B5;
+}
+h5{
+    color:#fff !important
+}
+a{
+    color:#8686B5;
+}
+a:hover{
+    text-decoration: none;
+}
+p{
+    padding-top: 15px;
+}
